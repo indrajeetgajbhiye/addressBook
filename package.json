@@ -1,0 +1,26 @@
+{
+  "name": "addressbook",
+  "version": "1.0.0",
+  "description": "Address book using OOPS",
+  "main": "temp.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Indrajeet Gajbhiye",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indrajeetgajbhiye/addressBook.git"
+  },
+  "keywords": [
+    "address",
+    "book"
+  ],
+  "bugs": {
+    "url": "https://github.com/indrajeetgajbhiye/addressBook/issues"
+  },
+  "homepage": "https://github.com/indrajeetgajbhiye/addressBook#readme",
+  "directories": {
+    "test": "test"
+  }
+}
